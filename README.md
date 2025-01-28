@@ -1,4 +1,4 @@
-** Motion Detection Using OpenCV and Python**
+**Motion Detection Using OpenCV and Python**
 
 This project is a basic motion detection program built with Python, OpenCV, and imutils. It uses a webcam to capture video frames and detects movement by comparing the first frame with subsequent ones. When motion is detected, the program highlights the moving object with a bounding box and updates the status on the screen.
 
